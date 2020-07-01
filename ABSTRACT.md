@@ -4,9 +4,7 @@ Text for MCN's 2020 conference session proposal webpage:
 
 Session Type: 30-Minute Session
 
-Possible titles: Intro to GitHub for (Non-Coding) Cultural Heritage Professionals by (Non-Coding) Photographers
-
-Or: Intro to GitHub for Cultural Heritage Professionals, an Open Source Adventure for the Non-Coder
+Intro to GitHub for (Non-Coding) Cultural Heritage Professionals by (Non-Coding) Photographers
 
 Abstract description: The code repository GitHub is a great place to find projects shared by your colleagues and is also a way for groups to work together asynchronously. It is a community and technology built on top of a particular distributed version control method, named git. Not just for code, GitHub can be used for documents, metadata, and spreadsheets; you can even host a static website in a GitHub repository! In this introductory session, Jeremy and Charles will walk through the GitHub process for two projects: a text-based studio workflow document and some custom Python scripts to expand the capabilities of the imaging software Capture One Pro.
 
