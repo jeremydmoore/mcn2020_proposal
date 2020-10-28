@@ -2,7 +2,7 @@ Text for MCN's 2020 conference session proposal webpage:
 
 (Jeremy will be the primary presenter, Charles will be the co-presenter)
 
-Session Type: 30-Minute Session
+Session Type: 60-Minute Session
 
 Intro to GitHub for (Non-Coding) Cultural Heritage Professionals by (Non-Coding) Photographers
 
